@@ -1,0 +1,64 @@
+body{
+  background-color: #ADB7FF;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px;
+
+}
+body {
+  border-style: solid;
+  border-width: 12px 12px 12px 12px;
+  border-color: white;
+  border-radius: 12px;
+}
+
+.img{
+  border-style: solid;
+  border-color: white;
+  border-width: 10px 10px 10px 10px;
+}
+
+h1{
+  font-family: 'Amatic SC', cursive;
+font-size: 125px;
+display: inline-block;
+}
+
+h3 {
+  font-family: 'Mr Bedfort', cursive;
+  font-size: 25px;
+
+}
+
+h2{
+  font-family: 'Mr Bedfort', cursive;
+}
+
+namecontainer {
+  position: absolute;
+  top: -6%;
+  left: 41%;
+
+}
+
+
+
+anothercontainer {
+  position: absolute;
+  top: 21%;
+  left: 50%;
+}
+
+.module {
+  cursor: url"Assets/oop.png", auto;
+}
+
+p{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.watermark{
+  border-style: solid;
+  border-color: white;
+  border-width: 10px 10px 10px 10px;
+}
